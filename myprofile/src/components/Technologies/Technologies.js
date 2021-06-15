@@ -2,7 +2,7 @@ import React from 'react';
 import { DiFirebase, DiReact, DiZend,DiMsqlServer } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
-import { DiJsBadge,DiHtml5,DiScriptcs,DiAngularSimple,DiBootstrap,DiMysql,DiMongodb,DiNodejs,DiPhp,DiJava,DiCss3} from "react-icons/di";
+import { AiFillCode,DiJsBadge,DiHtml5,DiScriptcs,DiAngularSimple,DiBootstrap,DiMysql,DiMongodb,DiNodejs,DiPhp,DiJava,DiCss3} from "react-icons/di";
 
 const Technologies = () =>  (
   <Section id="tech">
@@ -50,7 +50,7 @@ const Technologies = () =>  (
           <DiNodejs/> Nodejs <br />
             <DiJava/> Java, Servlet <br />
              <DiPhp/> PHP<br />
-              C++, C#, ASP.NET<br />
+             <AiFillCode/> C++, C#, ASP.NET<br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
