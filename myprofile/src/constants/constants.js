@@ -30,7 +30,7 @@ export const projects = [
     title: 'Digita System',
     description:"",
     image: '/images/myProfile.png',
-    tags: ['Next.js','React.Js'],
+    tags: ['Next.js','React.Js','JavaScript','...'],
     year: '2021',
     status: 'Completed',
     id: 3,
