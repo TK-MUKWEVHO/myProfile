@@ -2,8 +2,8 @@ import React from 'react';
 import { DiFirebase, DiReact, DiZend,DiMsqlServer } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
-import { AiFillCode,DiJsBadge,DiHtml5,DiScriptcs,DiAngularSimple,DiBootstrap,DiMysql,DiMongodb,DiNodejs,DiPhp,DiJava,DiCss3} from "react-icons/di";
-
+import { DiJsBadge,DiHtml5,DiScriptcs,DiAngularSimple,DiBootstrap,DiMysql,DiMongodb,DiNodejs,DiPhp,DiJava,DiCss3} from "react-icons/di";
+import { AiFillCode } from "react-icons/ai";
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
