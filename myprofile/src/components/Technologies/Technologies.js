@@ -45,14 +45,12 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End & Programming Languages</ListTitle>
+          <ListTitle>Back-End</ListTitle>
           <ListParagraph>
           <DiNodejs/> Nodejs <br />
             <DiJava/> Java, Servlet <br />
              <DiPhp/> PHP<br />
-              C++, C#<br />
-              ASP.NET<br />
-             <br />
+              C++, C#, ASP.NET<br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
