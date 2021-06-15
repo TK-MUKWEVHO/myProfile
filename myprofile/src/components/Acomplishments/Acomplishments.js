@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 2017, text: 'National Senior Certifiacate'},
-  { number: 2020, text: 'Java Programming Masterclass for Software Developers', }
+  { number: 2020, text: 'Java Programming Masterclass for Software Developers'},
 ];
 
 const Acomplishments = () => (

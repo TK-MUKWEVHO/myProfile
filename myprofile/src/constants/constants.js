@@ -42,4 +42,5 @@ export const TimeLineData = [
   { year: 2018, text: 'Started First Year at TUT Studying IT', },
   { year: 2019, text: 'Second Year Specialized in Software Development', },
   { year: 2020, text: 'Third/Final Year, Udemy Online Course', },
+  { year: 2021, text: 'Completing Diploma In IT: Software Developement',}
 ];
