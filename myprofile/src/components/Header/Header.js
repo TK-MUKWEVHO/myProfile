@@ -44,7 +44,7 @@ const Header = () =>  (
         <SocialIcons href="https://www.linkedin.com/in/takalani-maxwell-mukwevho-2969ab1a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsUFoQUaERcmvUhvlKxGp1A%3D%3D">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://www.linkedin.com/in/takalani-maxwell-mukwevho-2969ab1a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsUFoQUaERcmvUhvlKxGp1A%3D%3D">
+        <SocialIcons href="https://www.facebook.com/wanga.ndou.5">
           <AiFillFacebook size="3rem" />
         </SocialIcons>
       </Div3>

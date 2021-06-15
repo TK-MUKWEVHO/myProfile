@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Residence Management System',
     description: "System where student can apply for campus residence, and be able to report maintance issues",
-      image: '/images/1.png',
+      image: '/images/residenceSystemm.jpg',
       tags: ['HTML', 'PHP', 'JavaScript', 'MySQL'],
       year: '2020',
       status: 'Successfully Completed',
@@ -11,10 +11,19 @@ export const projects = [
   {
     title: 'Fastya',
     description:"System where user can request services from local service providers",
-    image: '/images/2.png',
+    image: '/images/Fastya.png',
     tags: ['React', 'JavaScript','Express','Express','MongoDB'],
     year: '2021',
-    status: 'Working On It',
+    status: 'Working On It With Team',
+    id: 1,
+  },
+  {
+    title: 'Digita System',
+    description:"System that can be used to digitalise documents",
+    image: '/images/DigitalSystem.jpg',
+    tags: ['Angular','C#','MySQL'],
+    year: '2021',
+    status: 'Working On It Alone',
     id: 1,
   },
 ];
