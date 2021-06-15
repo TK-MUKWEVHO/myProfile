@@ -24,7 +24,16 @@ export const projects = [
     tags: ['Angular','C#','MySQL'],
     year: '2021',
     status: 'Working On It Alone',
-    id: 1,
+    id: 2,
+  },
+  {
+    title: 'Digita System',
+    description:"",
+    image: '/images/myProfile.png',
+    tags: ['Next.js','React.Js'],
+    year: '2021',
+    status: 'Completed',
+    id: 3,
   },
 ];
 
