@@ -6,7 +6,7 @@ export const projects = [
       tags: ['HTML', 'PHP', 'JavaScript', 'MySQL'],
      link: 'http://residencemanagementsystem.great-site.net/',
      status: 'Completed : 2020',
-     code: 'https://github.com/TK-MUKWEVHO/ResidenceManagement/commits?author=TK-MUKWEVHO',
+     code: 'https://github.com/TK-MUKWEVHO/ResidenceManagement',
     id: 0,
   },
   {
@@ -16,8 +16,8 @@ export const projects = [
     tags: ['Next.js','React.Js','JavaScript','...'],
     link: '/',
     status: 'Completed: 2021',
-    code: 'https://github.com/TK-MUKWEVHO/myProfile/commits?author=TK-MUKWEVHO',
-    id: 1,
+    code: 'https://github.com/TK-MUKWEVHO/myProfile',
+    id: 1, 
   },
   {
     title: 'Fastya',
@@ -37,7 +37,7 @@ export const projects = [
     tags: ['Angular','C#','MySQL'],
     link: '/',
     status: 'OnGoing',
-    code: 'https://github.com/TK-MUKWEVHO/Digital-System/commits?author=TK-MUKWEVHO',
+    code: 'https://github.com/TK-MUKWEVHO/Digital-System',
     id: 3,
   },
 ];
