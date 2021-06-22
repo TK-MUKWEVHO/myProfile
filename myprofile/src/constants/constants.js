@@ -4,7 +4,7 @@ export const projects = [
     description: "System where student can apply for campus residence, and be able to report maintance issues",
       image: '/images/residenceSystemm.jpg',
       tags: ['HTML', 'PHP', 'JavaScript', 'MySQL'],
-     link: '/',
+     link: 'http://resmanagement.epizy.com/',
      status: 'Completed : 2020',
      code: 'https://github.com/TK-MUKWEVHO/ResidenceManagement',
     id: 0,
