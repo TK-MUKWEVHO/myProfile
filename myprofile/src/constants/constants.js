@@ -30,16 +30,6 @@ export const projects = [
     id: 2,
     
   },
-  {
-    title: 'Digita System',
-    description:"System that can be used to digitalise documents",
-    image: '/images/DigitalSystem.jpg',
-    tags: ['Angular','C#','MySQL'],
-    link: '/',
-    status: 'OnGoing',
-    code: 'https://github.com/TK-MUKWEVHO/Digital-System',
-    id: 3,
-  },
 ];
 
 export const TimeLineData = [
