@@ -7,6 +7,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   { Link: '',number: 2017, text: 'National Senior Certifiacate'},
   { Link: 'https://www.udemy.com/certificate/UC-e910777b-7337-40a0-bb58-6e6ffc20b010/',number: 2020, text: 'Java Programming Masterclass for Software Developers'},
+  { Link: '',number: 2021, text: 'NDIP IT Software Development'},
 ];
 
 const Acomplishments = () => (
