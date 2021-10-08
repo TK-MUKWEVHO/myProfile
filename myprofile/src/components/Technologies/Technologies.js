@@ -50,7 +50,7 @@ const Technologies = () =>  (
           <DiNodejs/> Nodejs <br />
             <DiJava/> Java, Servlet <br />
              <DiPhp/> PHP<br />
-             <AiFillCode/> C++, C#, ASP.NET<br />
+             <AiFillCode/> C++, C#, ASP.NET MVC 5<br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
