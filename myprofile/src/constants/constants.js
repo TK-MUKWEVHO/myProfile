@@ -10,14 +10,25 @@ export const projects = [
     id: 1, 
   },
   {
-    title: 'Fastya',
-    description:"System where user can request services from local service providers",
-    image: '/images/Fastya.png',
-    tags: ['React', 'JavaScript','Express','Express','MongoDB'],
+    title: 'Leave Management System',
+    description:"System where Employees can apply for leave and check their leave credits",
+    image: '/images/leave.png',
+    tags: ['HTML&CSS','Bootstrap', 'JavaScript','MySQL','PHP'],
     link: '/',
     status: 'OnGoing',
-    code: 'https://github.com/Sihle-ship-it/Fastya',
+    code: 'https://github.com/TK-MUKWEVHO/ELMS',
     id: 2,
+    
+  },
+   {
+    title: 'Transport System',
+    description:"System where Students apply for trip to other campuses",
+    image: '/images/leave.png',
+    tags: ['React','Express', 'Nodejs','MongoDB'],
+    link: '/',
+    status: 'OnGoing',
+    code: 'https://github.com/TK-MUKWEVHO/Transport-System',
+    id: 3,
     
   },
 ];
